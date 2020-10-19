@@ -19,6 +19,7 @@ html, body {
 }
 
 .all > .center {
+  border-radius: 5px;
   display: flex;
   justify-content: space-between;
   position: absolute;
@@ -36,7 +37,8 @@ html, body {
 
 .all > .center > .pic1 {
   width: 50%;
-  height: 100%;
+  height: 95%;
+  margin-top: 2%;
 }
 
 .all > .center > .pic1 > img {
